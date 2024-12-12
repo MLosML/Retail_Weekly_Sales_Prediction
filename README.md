@@ -58,6 +58,8 @@ The project focused on forecasting weekly sales for retail stores by analyzing h
 - This project reinforced the value of integrating domain knowledge with data science expertise for actionable insights in real-world applications.
 
 
+![image](https://github.com/user-attachments/assets/7908d57e-a83d-4e0e-8a4f-950ad01b698d)
+
 
 
 
