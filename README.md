@@ -48,3 +48,11 @@ The project focused on forecasting weekly sales for retail stores by analyzing h
 - The iterative model development process underscored the importance of continuous testing and evaluation to refine predictions.
 - Building the Streamlit app emphasized the need for user-centric design in data science projects, ensuring tools are accessible to end users.
 - This project reinforced the value of integrating domain knowledge with data science expertise for actionable insights in real-world applications.
+
+![image](https://github.com/user-attachments/assets/c995d07d-898b-4e89-8519-8f7f8450ac36)
+
+![image](https://github.com/user-attachments/assets/a10610fd-ad3b-425a-b71f-faceadfabfd5)
+
+
+
+
