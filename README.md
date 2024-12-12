@@ -1,8 +1,16 @@
 # Retail_Weekly_Sales_Prediction
  This project developed a machine-learning model to forecast weekly retail sales using historical data, holidays, and promotions. A Streamlit app with an AI chatbot was created for user-friendly predictions, combining advanced analytics with actionable insights while addressing challenges in data preprocessing and feature engineering.
 
+
+ ![image](https://github.com/user-attachments/assets/a10610fd-ad3b-425a-b71f-faceadfabfd5)
+
+
 # Summary
 The project focused on forecasting weekly sales for retail stores by analyzing historical sales data and external factors such as holidays, markdowns, and store attributes. The aim was to support inventory planning and promotional strategies by developing an accurate machine-learning model. The project also involved deploying a Streamlit app featuring a user-friendly AI chatbot to assist in making predictions.
+
+
+![image](https://github.com/user-attachments/assets/c995d07d-898b-4e89-8519-8f7f8450ac36)
+
 
 # Languages and Libraries Used
 - Programming Language: Python
@@ -49,9 +57,8 @@ The project focused on forecasting weekly sales for retail stores by analyzing h
 - Building the Streamlit app emphasized the need for user-centric design in data science projects, ensuring tools are accessible to end users.
 - This project reinforced the value of integrating domain knowledge with data science expertise for actionable insights in real-world applications.
 
-![image](https://github.com/user-attachments/assets/c995d07d-898b-4e89-8519-8f7f8450ac36)
 
-![image](https://github.com/user-attachments/assets/a10610fd-ad3b-425a-b71f-faceadfabfd5)
+
 
 
 
